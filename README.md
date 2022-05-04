@@ -1,5 +1,7 @@
 # Jogo_Espacial
 
+# Sobre o Jogo
+
 A aplicação consiste em um jogo espacial, na qual dois jogadores podem jogar no mesmo computador usando um teclado padrão.
 Neste jogo dois jogadores devem destruir a nave oponente, para conquistar a vitória.
 

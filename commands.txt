@@ -1,0 +1,16 @@
+Left_Spaceship:
+
+A = Left
+w = Up
+S = Down
+D = Right
+Left_CTRL = Shoot
+
+
+Right_Spaceship:
+
+arrow Key Up = Up
+arrow key Down = Down
+arrow key Left = Left
+arrow key Right = Right
+Right_CTRL = Shoot
